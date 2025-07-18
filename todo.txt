@@ -6,3 +6,5 @@ My To-Do List
 5.Visit aunt
 6.Apply for remote jobs
 7.Practice Code
+8.Do Skillrack Dc & DT
+9.Do LeetCode DC
